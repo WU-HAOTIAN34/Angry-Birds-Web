@@ -1,5 +1,5 @@
 # whtAngryBird.github.io
 
-##An Angry Birds front end web page
+# An Angry Birds front end web page
 
-# HTML CSS JS JQuery bootstrap
+## HTML CSS JS JQuery bootstrap
